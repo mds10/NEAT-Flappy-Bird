@@ -1,3 +1,7 @@
+"""
+This is the classic flaapy bird game made with Python and Pygame.
+
+"""
 import pygame
 import neat
 import os
